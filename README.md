@@ -6,7 +6,7 @@ Building intelligent systems at the intersection of causal inference, high-frequ
 
 ---
 
-## 🚀 Featured Project: HFT Causal Platform
+## 🚀 Featured Project: Portfolio IQ & Causal Platform
 
 ### High-Frequency Trading with Causal Discovery & Multi-Agent Intelligence
 
