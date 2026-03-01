@@ -1,6 +1,6 @@
 # 👋 Aditya Tornekar
 
-**Quantitative Researcher | Data Scientist | AI/ML Product | Strategy**
+**Data Scientist | AI/ML Product | Strategy**
 
 Building intelligent systems at the intersection of causal inference, high-frequency trading, and multi-agent orchestration.
 
@@ -8,7 +8,7 @@ Building intelligent systems at the intersection of causal inference, high-frequ
 
 ## 🚀 Featured Project: Portfolio IQ & Causal Platform
 
-### High-Frequency Trading with Causal Discovery & Multi-Agent Intelligence
+### Stock Portfolio Optimization with Causal Discovery & Multi-Agent Intelligence
 
 A sophisticated analytics platform that isolates true price impact signals from retail sentiment using advanced causal inference and autonomous agents.
 
@@ -122,15 +122,6 @@ My approach: *Marry cutting-edge research with battle-tested engineering practic
 | **[hft-causal-platform](https://github.com/ADITYATORNEKAR/hft-causal-platform)** | 🏆 Primary: Causal inference + multi-agent HFT analytics |
 | **[quantitative-research](link-coming-soon)** | Quantitative strategies & backtesting frameworks |
 | **[ml-infrastructure](link-coming-soon)** | Production ML systems & deployment patterns |
-
----
-
-### ⚡ Fun Facts
-
-- Built data pipelines handling 1M+ events/minute
-- Debugged 3am production issues with exponential backoff grace
-- Believe in clean code, comprehensive tests, and clear documentation
-- Coffee-powered quantitative researcher ☕
 
 ---
 
