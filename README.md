@@ -2,7 +2,7 @@
 
 **Data Scientist | AI/ML Product | Strategy**
 
-Building intelligent systems at the intersection of causal inference, high-frequency trading, and multi-agent orchestration.
+Building intelligent systems at the intersection of causal inference, quantitative finance, AI/ML solutions and multi-agent orchestration.
 
 ---
 
