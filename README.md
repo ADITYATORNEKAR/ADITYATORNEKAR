@@ -120,8 +120,6 @@ My approach: *Marry cutting-edge research with battle-tested engineering practic
 | Project | Description |
 |---------|------------|
 | **[hft-causal-platform](https://github.com/ADITYATORNEKAR/hft-causal-platform)** | 🏆 Primary: Causal inference + multi-agent HFT analytics |
-| **[quantitative-research](link-coming-soon)** | Quantitative strategies & backtesting frameworks |
-| **[ml-infrastructure](link-coming-soon)** | Production ML systems & deployment patterns |
 
 ---
 
